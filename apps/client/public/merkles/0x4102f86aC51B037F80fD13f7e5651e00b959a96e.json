@@ -1,0 +1,9 @@
+{
+  "address": "0x4102f86aC51B037F80fD13f7e5651e00b959a96e",
+  "amount": "151000000000000000000",
+  "isSponsored": true,
+  "proof": [
+    "0xb7adc68506197cec815f0a61215dc0310f76f8d773235ff51ceb6a28e0cf8aab",
+    "0x3a19b49b83d30d22df128809d6eaddb09910ff1acc4b46cc3e9cb0cc87f176f1"
+  ]
+}
